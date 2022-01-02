@@ -1,1 +1,1 @@
-# odin-recipes
+This page is a quick HTML project that will show a few recipes. It is being built solely with HTML tags and elements.
